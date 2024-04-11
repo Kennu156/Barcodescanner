@@ -1,0 +1,1 @@
+Barcodescanner for Programmeerimise alused class
